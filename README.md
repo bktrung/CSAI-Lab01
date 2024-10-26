@@ -89,7 +89,7 @@ Example:
 - If you submit late after the deadline, 30% of the points will be deducted. After one day past the deadline, no submissions will be accepted for any reason.
 
 # V. Contact
-Contact teacher via email at ntthuhang0131@gmail.com
+Contact teacher via email at ************************
 
 
 
